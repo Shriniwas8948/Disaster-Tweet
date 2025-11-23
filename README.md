@@ -180,12 +180,6 @@ Confusion matrix:
 
 ---
 
-## Notebook / script structure
-
-* `data/` : place `train.csv` and `test.csv` here (or point code to `/content/kaggle nlp/`)
-* `notebooks/` : Jupyter notebook with EDA and model training
-* `src/` : helper modules (preprocessing, features, modeling)
-* `README.md` : this file
 
 ## Reproducibility tips
 
